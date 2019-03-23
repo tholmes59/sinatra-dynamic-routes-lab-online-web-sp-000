@@ -11,4 +11,6 @@ class App < Sinatra::Base
     "#{@square}"
   end 
   
+  get 
+  
 end
